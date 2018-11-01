@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.funtl</groupId>
+        <groupId>org.faramita</groupId>
         <artifactId>myshop-dependencies</artifactId>
         <version>1.0.0-SNAPSHOT</version>
         <relativePath>../myshop-dependencies/pom.xml</relativePath>
@@ -14,6 +14,5 @@
     <artifactId>myshop-static-backend</artifactId>
     <packaging>jar</packaging>
 
-    <url>http://www.funtl.com</url>
     <inceptionYear>2018-Now</inceptionYear>
 </project>
